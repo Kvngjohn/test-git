@@ -1,0 +1,4 @@
+Working Directory - Staging Area - local Repo. - Remote 
+Test project - git add - git commit -git push
+
+
