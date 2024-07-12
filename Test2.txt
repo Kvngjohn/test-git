@@ -1,2 +1,2 @@
 I am test2 file and i am from feature1 branch.
-Hi, i am from feature 5 branch
+i am from feature6 branch
