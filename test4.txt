@@ -1,0 +1,2 @@
+Hello i am some and i am from feature2 branch
+Hello i am line2 from feature5 branch
