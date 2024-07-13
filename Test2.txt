@@ -1,1 +1,2 @@
 I am test2 file and i am from feature1 branch.
+I am the second line from master branch
