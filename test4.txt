@@ -1,2 +1,1 @@
-Hello i am someone and I am from the feature3 branch
 Hello i am line2 from the master branch
