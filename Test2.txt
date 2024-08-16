@@ -1,2 +1,6 @@
 I am test2 file and i am from feature1 branch.
+<<<<<<< HEAD
 i am from feature6 branch
+=======
+I am the second line from master branch
+>>>>>>> 419667acfa93225e3fd3db1823c246c5ff7b7a34
