@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+One key challenge associated with IoT revolves around security breaches, which harbor the capacity to jeopardize the security integrity of entire systems. The vulnerability of IoT devices to breaches and cyber attacks poses a substantial threat of unauthorized access into sensitive data, subsequently resulting in adverse outcomes. These attacks could also lead to loss of reputation of organizations as customers lose trust due to the compromise of data.
+I am from feature3
+=======
+Hello i am line2 from the master branch
+>>>>>>> 419667acfa93225e3fd3db1823c246c5ff7b7a34
